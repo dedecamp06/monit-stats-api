@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://swaggerstats.io/ui.png" width="1000" alt="Nest Logo" /></a>
+  <a href="https://swaggerstats.io/guide/#express" target="blank"><img src="https://swaggerstats.io/ui.png" width="1000" alt="Nest Logo" /></a>
 </p>
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://docs.nestjs.com/assets/swagger1.png" width="1000" alt="Nest Logo" /></a>
+  <a href="https://docs.nestjs.com/openapi/introduction" target="blank"><img src="https://docs.nestjs.com/assets/swagger1.png" width="1000" alt="Nest Logo" /></a>
 </p>
 
 
